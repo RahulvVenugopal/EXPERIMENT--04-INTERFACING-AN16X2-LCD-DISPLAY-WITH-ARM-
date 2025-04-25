@@ -213,7 +213,7 @@ void lcd_display(){
 ## Output screen shots of proteus  :
  #### OFF Condition:
  ![Screenshot 2025-03-27 143036](https://github.com/user-attachments/assets/94bd934f-4514-4069-85f0-b7e1aea77790)
- #### ON Conition:
+ #### ON Condition:
 ![image](https://github.com/user-attachments/assets/ba27c0cf-c798-4241-93ea-a9212a4d4775)
 
 
